@@ -1,4 +1,4 @@
-# Awesome Interactive Theorem Provers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Interactive Theorem Assistants [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <img width="900" alt="ChatGPT Image Jun 19, 2026, 01_05_46 AM" src="https://github.com/user-attachments/assets/638d59e7-8e53-4629-b725-1bc66d6a6023" />
 
@@ -21,4 +21,4 @@
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a pull request to add more interactive theorem provers to this awesome list.
+Contributions are welcome! Please feel free to submit a pull request to add more interactive theorem assistants to this awesome list.
